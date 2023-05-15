@@ -1,7 +1,5 @@
 # q6
 
-Please be careful to chatt in skype !!!
-
 Note: Please check this always before sending, I will always keep this Github Url. Thanks.
 
 Contact:
