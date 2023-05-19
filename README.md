@@ -5,9 +5,7 @@ Note: Please check this always before sending, I will always keep this Github Ur
 Contact:
 
  Telegram: https://t.me/etherdev365
- 
- Skype: live:.cid.37103263fafd654d
- 
+  
  
 ✔  Payoneer: jhonatanmaranosilva@gmail.com
 
