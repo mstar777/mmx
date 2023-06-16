@@ -7,7 +7,7 @@ Contact:
  Telegram: https://t.me/etherdev365
   
  
-✔  Payoneer: jhonatanmaranosilva@gmail.com
+✔  Payoneer: rafaelteixei00@gmail.com
 
 ✔  Paypal: sheikhnayemm9@gmail.com
 
