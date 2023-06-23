@@ -1,12 +1,7 @@
 # q6
 
 Note: Please check this always before sending, I will always keep this Github Url. Thanks.
-
-Contact:
-
- Telegram: https://t.me/etherdev365
   
- 
 ✔  Payoneer: rafaelteixei00@gmail.com
 
 ✔  Paypal: sheikhnayemm9@gmail.com
