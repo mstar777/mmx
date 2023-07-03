@@ -2,7 +2,6 @@
 
 Note: Please check this always before sending, I will always keep this Github Url. Thanks.
   
-✔  Payoneer: rafaelteixei00@gmail.com
 
 ✔  Paypal: sheikhnayemm9@gmail.com
 
