@@ -1,9 +1,5 @@
 # q6
 
-Telegram: https://t.me/etherdev365
-
-Note: Please check this always before sending, I will always keep this Github Url. Thanks.
-  
 
 ✔  Paypal: sheikhnayemm9@gmail.com
 
