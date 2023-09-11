@@ -3,6 +3,7 @@
 
 ✔  Paypal: sheikhnayemm9@gmail.com
 
+✔  Payoneer: rafaelteixei00@gmail.com
 
 ✔  USDT(TRC20): TKKQbsW2Y4G3xrR1i5Qb42ug3nBqSfpH7K
 
