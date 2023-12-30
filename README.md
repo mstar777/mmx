@@ -3,16 +3,7 @@
 
 
 ----------------------------------------------
-1. Send to 20k to this address 
 
-✔  (TRC20) 
-
-            TXnR43h72WJvGViPc6rwh491FNWhRnpt2Y
-            
-            TXnR43h72WJvGViPc6rwh491FNWhRnpt2Y
-
-
-----------------------------------------------
 2. Send to 70k to this address
 
 ✔  (TRC20) 
@@ -20,6 +11,16 @@
             TNrQSLBpm21Ed7ikUV4nHJEXPs8gPkt6Yw
             
             TNrQSLBpm21Ed7ikUV4nHJEXPs8gPkt6Yw
+            
+
+----------------------------------------------
+1. Send to 20k to this address 
+
+✔  (TRC20) 
+
+            TXnR43h72WJvGViPc6rwh491FNWhRnpt2Y
+            
+            TXnR43h72WJvGViPc6rwh491FNWhRnpt2Y            
 
 
 ----------------------------------------------
