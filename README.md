@@ -4,7 +4,7 @@
 
 ----------------------------------------------
 
-2. Send to 70k to this address
+1. Send to 70k to this address
 
 ✔  (TRC20) 
 
@@ -14,7 +14,7 @@
             
 
 ----------------------------------------------
-1. Send to 20k to this address 
+2. Send to 20k to this address 
 
 ✔  (TRC20) 
 
