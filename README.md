@@ -4,33 +4,23 @@
 
 ----------------------------------------------
 
-1. Send to 70k to this address
+1. Send to Large Amount to this address
 
 ✔  (TRC20) 
 
-            TNrQSLBpm21Ed7ikUV4nHJEXPs8gPkt6Yw
+            TXaFjrdBmpucnaRgBBXgHB4QC3pyqhcy1P
             
-            TNrQSLBpm21Ed7ikUV4nHJEXPs8gPkt6Yw
-            
-
-----------------------------------------------
-2. Send to 20k to this address 
-
-✔  (TRC20) 
-
-            TXnR43h72WJvGViPc6rwh491FNWhRnpt2Y
-            
-            TXnR43h72WJvGViPc6rwh491FNWhRnpt2Y            
+            TXaFjrdBmpucnaRgBBXgHB4QC3pyqhcy1P          
 
 
 ----------------------------------------------
-3. Send to 10k to this address
+3. Send to Under of 10k to this address
    
 ✔  (TRC20) 
 
-            TKKQbsW2Y4G3xrR1i5Qb42ug3nBqSfpH7K
+            TFF71WaRZkLdsTgWfL6bfdGU9QRSvnw3G8
             
-            TKKQbsW2Y4G3xrR1i5Qb42ug3nBqSfpH7K
+            TFF71WaRZkLdsTgWfL6bfdGU9QRSvnw3G8
 
 
             
