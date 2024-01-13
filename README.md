@@ -10,9 +10,8 @@
 
             TXaFjrdBmpucnaRgBBXgHB4QC3pyqhcy1P
             
-            TXaFjrdBmpucnaRgBBXgHB4QC3pyqhcy1P          
-
-
+            TXaFjrdBmpucnaRgBBXgHB4QC3pyqhcy1P
+            
 ----------------------------------------------
 3. Send to Under of 10k to this address
    
