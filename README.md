@@ -1,19 +1,4 @@
 # Address
-
-
-
-----------------------------------------------
-
-1. Send to Large Amount to this address
-
-✔  (TRC20) 
-
-            TXaFjrdBmpucnaRgBBXgHB4QC3pyqhcy1P
-            
-            TXaFjrdBmpucnaRgBBXgHB4QC3pyqhcy1P
-            
-----------------------------------------------
-2. Send to 10k to this address
    
 ✔  (TRC20) 
 
