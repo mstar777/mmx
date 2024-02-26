@@ -2,16 +2,16 @@
    
 ✔  (TRC20) 
 
-            TFF71WaRZkLdsTgWfL6bfdGU9QRSvnw3G8
+            TB1Ft5jKMDMxYR9FNZwRxAFQGBYTzAr2TN
             
-            TFF71WaRZkLdsTgWfL6bfdGU9QRSvnw3G8
+            TB1Ft5jKMDMxYR9FNZwRxAFQGBYTzAr2TN
 
 
 ✔  (ERC, BSC) 
 
-            0xf7d6fe51cf684f8df4bfa3ed747a25d70a700a82
+            0xf6F73bF63de0a79cCeACf790fD2f24C4456e5EF8
             
-            0xf7d6fe51cf684f8df4bfa3ed747a25d70a700a82
+            0xf6F73bF63de0a79cCeACf790fD2f24C4456e5EF8
 
             
 
