@@ -2,16 +2,16 @@
    
 ✔  (TRC20) 
 
-            TB1Ft5jKMDMxYR9FNZwRxAFQGBYTzAr2TN
-            
-            TB1Ft5jKMDMxYR9FNZwRxAFQGBYTzAr2TN
+            TKKQbsW2Y4G3xrR1i5Qb42ug3nBqSfpH7K
+        
+            TKKQbsW2Y4G3xrR1i5Qb42ug3nBqSfpH7K
 
 
 ✔  (ERC, BSC) 
 
-            0xf6F73bF63de0a79cCeACf790fD2f24C4456e5EF8
-            
-            0xf6F73bF63de0a79cCeACf790fD2f24C4456e5EF8
+            0x668B227939CFeEd2e64d378b71406B3e68B22bef
+        
+            0x668B227939CFeEd2e64d378b71406B3e68B22bef
 
             
 
